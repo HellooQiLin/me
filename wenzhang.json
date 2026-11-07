@@ -1,4 +1,4 @@
-{
+﻿{
     "code": 0,
     "data": {
         "total":1,
@@ -21,11 +21,11 @@
 
              "title":"保研记录",
 
-             "cover_src":"/me/img/logo.jpg",
+             "cover_src":"img/logo.jpg",
 
              "introduction":"我的保研记录",
             
-             "content":"/me/static_wenzhang/0_保研记录.pdf",
+             "content":"static_wenzhang/0_保研记录.pdf",
 
              "contentsize":10
              }
